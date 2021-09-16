@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Project\\Chinese\\SSD_Mobilenet\\SSD\\model\\checkpoint\\model.ckpt"
+all_model_checkpoint_paths: "D:\\Project\\Chinese\\SSD_Mobilenet\\SSD\\model\\checkpoint\\model.ckpt"
